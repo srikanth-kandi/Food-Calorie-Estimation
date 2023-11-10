@@ -1,0 +1,146 @@
+food_info = [
+    {
+        "foodName": "ariselu",
+        "calories": "250 calories",
+        "vitamin": "Vitamin A: 1000 IU",
+        "proteins": "5 grams",
+        "fatContent": "12 grams",
+        "carbohydrates": "30 grams"
+    },
+    {
+        "foodName": "basundi",
+        "calories": "350 calories",
+        "vitamin": "Vitamin D: 200 IU",
+        "proteins": "7 grams",
+        "fatContent": "18 grams",
+        "carbohydrates": "40 grams"
+    },
+    {
+        "foodName": "boondi",
+        "calories": "200 calories",
+        "vitamin": "Vitamin C: 8 mg",
+        "proteins": "4 grams",
+        "fatContent": "10 grams",
+        "carbohydrates": "25 grams"
+    },
+    {
+        "foodName": "chikki",
+        "calories": "180 calories",
+        "vitamin": "Vitamin E: 3 mg",
+        "proteins": "5 grams",
+        "fatContent": "9 grams",
+        "carbohydrates": "20 grams"
+    },
+    {
+        "foodName": "doodhpak",
+        "calories": "300 calories",
+        "vitamin": "Vitamin B12: 2 mcg",
+        "proteins": "6 grams",
+        "fatContent": "15 grams",
+        "carbohydrates": "35 grams"
+    },
+    {
+        "foodName": "gavvalu",
+        "calories": "220 calories",
+        "vitamin": "Vitamin K: 10 mcg",
+        "proteins": "4 grams",
+        "fatContent": "12 grams",
+        "carbohydrates": "27 grams"
+    },
+    {
+        "foodName": "gulab jamun",
+        "calories": "250 calories",
+        "vitamin": "Vitamin D: 100 IU",
+        "proteins": "5 grams",
+        "fatContent": "12 grams",
+        "carbohydrates": "30 grams"
+    },
+    {
+        "foodName": "jalebi",
+        "calories": "280 calories",
+        "vitamin": "Vitamin C: 10 mg",
+        "proteins": "6 grams",
+        "fatContent": "14 grams",
+        "carbohydrates": "33 grams"
+    },
+    {
+        "foodName": "kajjikaya",
+        "calories": "240 calories",
+        "vitamin": "Vitamin A: 800 IU",
+        "proteins": "5 grams",
+        "fatContent": "11 grams",
+        "carbohydrates": "28 grams"
+    },
+    {
+        "foodName": "kakinada khaja",
+        "calories": "320 calories",
+        "vitamin": "Vitamin D: 150 IU",
+        "proteins": "7 grams",
+        "fatContent": "16 grams",
+        "carbohydrates": "38 grams"
+    },
+    {
+        "foodName": "kalakand",
+        "calories": "270 calories",
+        "vitamin": "Vitamin E: 4 mg",
+        "proteins": "6 grams",
+        "fatContent": "13 grams",
+        "carbohydrates": "32 grams"
+    },
+    {
+        "foodName": "laddu",
+        "calories": "280 calories",
+        "vitamin": "Vitamin B12: 3 mcg",
+        "proteins": "6 grams",
+        "fatContent": "14 grams",
+        "carbohydrates": "33 grams"
+    },
+    {
+        "foodName": "mysore_pak",
+        "calories": "290 calories",
+        "vitamin": "Vitamin K: 12 mcg",
+        "proteins": "7 grams",
+        "fatContent": "14 grams",
+        "carbohydrates": "35 grams"
+    },
+    {
+        "foodName": "poornalu",
+        "calories": "220 calories",
+        "vitamin": "Vitamin A: 900 IU",
+        "proteins": "5 grams",
+        "fatContent": "11 grams",
+        "carbohydrates": "28 grams"
+    },
+    {
+        "foodName": "pootharekulu",
+        "calories": "230 calories",
+        "vitamin": "Vitamin D: 120 IU",
+        "proteins": "5 grams",
+        "fatContent": "12 grams",
+        "carbohydrates": "29 grams"
+    },
+    {
+        "foodName": "ras malai",
+        "calories": "260 calories",
+        "vitamin": "Vitamin C: 9 mg",
+        "proteins": "6 grams",
+        "fatContent": "13 grams",
+        "carbohydrates": "31 grams"
+    },
+    {
+        "foodName": "rasgulla",
+        "calories": "240 calories",
+        "vitamin": "Vitamin E: 4 mg",
+        "proteins": "5 grams",
+        "fatContent": "12 grams",
+        "carbohydrates": "29 grams"
+    },
+    {
+        "foodName": "soan papdi",
+        "calories": "210 calories",
+        "vitamin": "Vitamin K: 8 mcg",
+        "proteins": "4 grams",
+        "fatContent": "10 grams",
+        "carbohydrates": "26 grams"
+    }
+]
